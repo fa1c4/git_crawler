@@ -1,3 +1,8 @@
+# ignore files
+logs/
+results/
+src/run_crawler.sh
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
