@@ -2,6 +2,7 @@
 logs/
 results/
 src/run_crawler.sh
+data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
